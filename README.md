@@ -1,5 +1,5 @@
 # A Lenda dos Três Reinos
-PS: eu só vi que era pra ter github no quando eu terminei o projeto, logo vai ficar sem historico, NO GRUPO QUE VC MANDOU A IMAGEM MADE TODAS AS ESPECIFICAÇÕES QUE VOCE VAI COBRAR, tmb é importante dizer que por causa desse prazo RIDICULO o README foi feito com auxilio de IA
+PS: por causa do prazo apertado o README foi feito com auxilio de IA
 **Aluno:** Marcos Vinícius de Medeiros Silva
 **Matrícula:** 20260015488
 **Disciplina:** DCT1106 — Programação
